@@ -3,7 +3,7 @@ package icu.zxb996.candin.service.api.impl.domain;
 import icu.zxb996.candin.service.api.domain.MessageParam;
 import icu.zxb996.candin.support.domain.MessageTemplate;
 import icu.zxb996.candin.support.pipeline.ProcessModel;
-import icu.zxb996.domain.TaskInfo;
+import icu.zxb996.common.domain.TaskInfo;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

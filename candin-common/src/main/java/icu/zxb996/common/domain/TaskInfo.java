@@ -1,6 +1,6 @@
-package icu.zxb996.domain;
+package icu.zxb996.common.domain;
 
-import icu.zxb996.domain.dto.model.ContentModel;
+import icu.zxb996.common.dto.model.ContentModel;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
